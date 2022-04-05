@@ -69,7 +69,7 @@ header:hover{
     margin: 1rem;
     margin-right: 1rem;
     position:relative;
-    display:flex;
+    display:block;
     width: 100%;
     height: 100%;
     
@@ -95,7 +95,7 @@ header:hover{
     font-style: initial;
 }
 .content h1{
-    display: block;
+    display: contents;
     color: #12368b;
     font-size:x-large;
 }
