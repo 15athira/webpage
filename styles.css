@@ -83,7 +83,7 @@ header:hover{
     margin-top: 5rem;
 }
 .content{
-    display: flex;
+    display:flex;
     height: 220px;
     color:#7882A4;
     background-color: #FDEFF4;
