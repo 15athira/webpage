@@ -34,7 +34,8 @@
                            The IPL is the most-attended cricket league in the world and in 2014 was ranked sixth by average attendance among all sports leagues. <br>
                            In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube. <br>
                            The brand value of the IPL in 2019 was ₹47,500 crore (US$6.2 billion), according to Duff & Phelps. <br>
-                           There have been fourteen seasons of the IPL tournament. The current IPL title holders are the Chennai Super Kings, winning the 2021 season.</h3></p></center>
+                           There have been fourteen seasons of the IPL tournament. The current IPL title holders are the Chennai Super Kings, winning the 2021 season.
+                               </h3></p></center>
                 </div>
                 <div class="images">
                     <img src="Tata_IPL_Trophy.jpg" alt="my-image" class="my-image"><br>
